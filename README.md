@@ -1,2 +1,1 @@
-# Brushedcharts
-Created with CodeSandbox
+# d3.js with React
